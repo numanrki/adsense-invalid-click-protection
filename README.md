@@ -1,0 +1,2 @@
+# adsense-invalid-click-protection
+ 
